@@ -262,6 +262,10 @@ input[type="radio"] {
     width: 100px;
   }
 
+  .header {
+    height: 80vh;
+  }
+
   nav button {
     padding: 5px 10px;
   }
@@ -301,10 +305,6 @@ input[type="radio"] {
   .row:nth-child(2),
   .row:nth-child(4) {
     flex-direction: column-reverse;
-  }
-
-  .header {
-    height: 60vh;
   }
 
   .feautres .row {
